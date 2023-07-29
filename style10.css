@@ -1,0 +1,47 @@
+body {
+background-image: url(image7.png);
+background-size: 100% 100%;
+background-attachment: fixed;
+}
+
+
+input{
+	margin: 12px;
+  margin-left: 16px;
+
+
+}
+
+.R{
+	margin-left:10px;
+}
+
+.L{
+	margin-left:10px;
+}
+
+.F{
+	margin-left:8px;
+}
+.O{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.B{
+  margin-left: 10px;
+}
+
+.wrapper {
+    height: 27px;
+    width: 58px;
+    padding: 3px;
+    box-sizing: border-box;
+    position: absolute;
+    top:218px;
+    left:176px;
+}
+
+.wrapper button {
+    height: 100%;
+    width: 100%;
+}
