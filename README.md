@@ -11,3 +11,10 @@ and store the path in the database
 
 
 ## Some pictures to draw the path and store in the database
+![image1](page3.png) 
+
+![image1](page4.png)
+
+![image1](page5.png) 
+
+![image1](page6.png) 
