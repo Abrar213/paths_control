@@ -2,7 +2,7 @@
 A web page to draw the robot movement path 
 and store the path in the database.
 
-buttons
+## buttons
 Save: To save the data in the database
 Reset: To reset the entered data
 start: start drawing the path
